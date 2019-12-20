@@ -1,8 +1,4 @@
 # fortnitepy-bot
-A fortnite XMPP bot coded in Python with party capabilites.
-
-## Discord Support
-<a href="https://discord.gg/8heARRB"><img src="https://discordapp.com/api/guilds/624635034225213440/widget.png?style=banner2"></a>
 
 ## How do I get started?
 
